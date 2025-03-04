@@ -144,5 +144,34 @@ Map to Clayton Christensen’s criteria:
 
 ---
 
+## **Slide 3 (Updated): Patterns of an Underserved Market & Real-World Problem Situations**
+
+**Key Jobs to Be Done (JTBD)**  
+1. **“Help me store value that isn’t reliant on government-controlled fiat.”**  
+2. **“Give me a censorship-resistant way to move money if my local banking system fails.”**  
+3. **“I need capital efficiency—no 200% collateral locks.”**  
+4. **“I prefer commodity-based assets (gold/silver) that outperform fiat historically.”**
+
+### **Real-World Problem Situations**  
+- **Hyperinflation in Argentina:**  
+  - People see their peso holdings **lose value daily**. Fiat-backed stablecoins still expose them to USD inflation or blacklisting risks.  
+  - Existing gold-backed tokens often require large minimums or verify only “paper gold,” leaving smaller savers behind.  
+- **Capital Controls in Lebanon:**  
+  - Banks limit withdrawals; local currency heavily devalued.  
+  - Fiat-pegged stablecoins can be frozen by governments or centralized issuers, failing at providing true autonomy.  
+- **Overcollateralized Crypto in DeFi:**  
+  - DAI-type stablecoins require **locking up 150-300%** in collateral. Many small traders or everyday users **lack that much capital** to tie up.  
+- **Synthetic Gold Tokens (No Real Redemption):**  
+  - Some “gold stablecoins” do not allow actual metal pickup; they’re purely synthetic. This fails the job for users wanting **physical redemption** or guaranteed claims.
+
+**Why Current Offerings Don’t Fulfill These Jobs Well**  
+- **Reliance on Central Parties** (USDC, Tether) → vulnerable to blacklisting and inflation.  
+- **High Barriers** (institutional gold tokens) → excludes smaller savers in crisis economies.  
+- **Excessive Collateral Requirements** → everyday usage is impractical.  
+- **No Physical Redemption** → synthetic tokens do not provide real ownership of metals.
+
+> **Relevance:** Millions in places like **Lebanon, Venezuela, Argentina, or Turkey** need these capabilities, but **current stablecoin models** are either too centralized, too capital-intensive, or lack real-asset redemption.
+
+
 **Final Note**  
 With this structured deck, you highlight the **core problem** (underserved stablecoin markets), the **Jobs to Be Done** approach (defining user needs), and **Transmute’s unique solution**—metal-backed, algorithmic stablecoins that can serve individuals locked out of existing financial tools.
