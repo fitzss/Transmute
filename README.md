@@ -175,3 +175,26 @@ Map to Clayton Christensen’s criteria:
 
 **Final Note**  
 With this structured deck, you highlight the **core problem** (underserved stablecoin markets), the **Jobs to Be Done** approach (defining user needs), and **Transmute’s unique solution**—metal-backed, algorithmic stablecoins that can serve individuals locked out of existing financial tools.
+
+
+## **Slide 3 (Updated): Problems in Today’s Stablecoin Market**
+
+### **What People Need (Jobs to Be Done)**
+1. **A way to store value that isn’t controlled by governments.**  
+2. **A censorship-resistant way to move money when banks fail.**  
+3. **A stablecoin that doesn’t require locking up 200%+ in collateral.**  
+4. **A token backed by real assets like gold and silver, not just fiat.**
+
+### **Why Current Stablecoins Fail**
+- **Inflation risk:** Fiat-backed stablecoins (USDC, Tether) lose value as inflation rises.  
+- **Censorship problems:** Banks and governments can freeze accounts or block transactions.  
+- **Too expensive to use:** Crypto-backed stablecoins (DAI) require too much locked collateral.  
+- **No real backing:** Some “gold tokens” don’t let you redeem actual metal.  
+
+### **Real-World Issues**
+- **Argentina’s peso loses value daily → People need a stable savings option.**  
+- **Lebanon’s banks block withdrawals → People need a way to move money freely.**  
+- **Crypto users can’t afford to lock up 200% collateral → Need a better system.**  
+- **Gold-backed tokens exist, but many don’t allow physical redemption.**  
+
+> **Millions of people in unstable economies need a better solution. Current stablecoins aren’t good enough.**
